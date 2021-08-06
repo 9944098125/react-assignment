@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.team-card-con {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.team-name {
+  font-size: 40px;
+  font-family: 'Lobster';
+}
